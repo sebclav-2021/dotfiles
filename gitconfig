@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sebclav@hotmail.com
+	name = sebastien clavel
